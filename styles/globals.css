@@ -14,3 +14,15 @@ a {
 * {
   box-sizing: border-box;
 }
+@tailwind base;
+.backgroundpage {
+  background-color: #1C3059; 
+}
+.navbarCustome {
+  background-color: #BF213E;
+}
+.textColor {
+  color: #F2EDDC;
+}
+@tailwind components;
+@tailwind utilities;
